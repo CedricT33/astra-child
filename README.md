@@ -17,6 +17,8 @@ Ce thème utilise une palette de couleurs de la charte graphique du site BlogTro
 - Pickled Bean #8b572a
 - Polices d'écriture : Montserrat et baloo.
 
+Ces couleurs sont automatiquement proposé dans la palette par défaut.
+
 
 ### Ressources :
  - https://company-45185.frontify.com/d/fVRpz7xGUu30/blog-trotter-style-guide 
