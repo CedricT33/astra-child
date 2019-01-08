@@ -11,8 +11,10 @@ Thème enfant du thème Astra by Cédric & Thomas pour le site BlogTrotter.
 
 ### Utilisation :
 Ce thème utilise une palette de couleurs de la charte graphique du site BlogTrotter.
-- White
-- <p style='color:black; background-color:#b09f82'>Mongoose</p>
+- White #fff
+- Mine Shaft #4a4a4a
+- Mongoose #b09f82
+- Pickled Bean #8b572a
 - Polices d'écriture : Montserrat et baloo.
 
 
