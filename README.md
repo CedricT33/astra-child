@@ -11,6 +11,11 @@ Thème enfant du thème Astra by Cédric & Thomas pour le site BlogTrotter.
 
 ### Utilisation :
 Ce thème utilise une palette de couleurs de la charte graphique du site BlogTrotter.
+- <p style='color:black; background-color:#fff'>White</p>
+-
+-
+-
+- Polices d'écriture : Montserrat et baloo.
 
 
 ### Ressources :
